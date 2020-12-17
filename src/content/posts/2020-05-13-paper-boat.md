@@ -1,31 +1,46 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
+title: Canon EOS Rebel T6 Digital SLR Camera Kit
+slug: /camera-kit
 date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+description: Your action photos deserve high quality, and that is exactly what
+  the EOS Rebel T6 from Canon delivers. Every photo and video you make is high
+  quality with extreme details. Every colorful image is brilliantly clear so
+  that your memories are beautiful.
+featuredImage: /assets/kit.jpg
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+<!--StartFragment-->
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+Equipped with powerful sensors, this camera will deliver great pictures even in dim light. With the ability to fit different lenses, this camera is just what you need for flexibility. If you’re serious about sports and you want the best camera for skateboarding photography, this should be at the top of your list of cameras to purchase.
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+This camera will give you the perfect action shots as you display your skateboarding skills as it can capture up to 3 frames in a second.
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
+Focus is super-fast on this device because of the 9 point AF feature. You don’t need too long to focus on your mark and capture your eat tricks’ priceless moments. You would be comfortable with this camera even if you were a novice.
 
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+Features like basic mode and scene intelligent auto will help you adjust every scene to take the perfect photo. There are several shooting modes available. You can simply turn the mode dial to select one and try it out.
 
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+You will never regret spending the extra money on this DSLR kit. You get the value of two lenses and an amazing camera that delivers expectational pictures under varied conditions.
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+If you want to take photos with a blurry background, this is one of the best options available for the job. If you have not owned a sophisticated camera in the past, we recommend purchasing a cleaning kit and camera case with this device. This will help your camera last longer and perform very optimally.
 
-* That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-* We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
+***Highlights***
 
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
+* Built-in NFC and wi-fi for easy transfer and wireless control.
+* Has a large LCD monitor.
+* 9 point AF system.
+* Basic+ mode.
 
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+*Pros*
+
+* Takes crystal clear photos.
+* You can connect your phone to transfer photos and control the camera.
+* It can be turned into a webcam.
+* Easy manual control for functions.
+
+*Cons*
+
+* You cannot set ISO in manual mode.
+* The screen is fixed and does not move.
+* There is no microphone jack.
+
+<!--EndFragment-->
