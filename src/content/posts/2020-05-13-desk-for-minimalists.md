@@ -20,6 +20,7 @@ Having great skateboarding skills will help you enjoy the sport, but you need mo
  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   </head>
   <body>
- <button type="button" class="btn btn-primary">BUY PRODUCT</button>
+ <a href="https://www.amazon.com/Camcorder-KOT-Powerful-Microphone-Vlogging/dp/B07V5RHK9Z/ref=sr_1_3?dchild=1&keywords=Actinow+Video+Camera+4K+Camcorder&qid=1605955691&sr=8-3" class="btn btn-info" role="button">Buy Product</a>
+
   </body>
 </html>
