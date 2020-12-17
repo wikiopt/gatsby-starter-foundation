@@ -20,6 +20,6 @@ Having great skateboarding skills will help you enjoy the sport, but you need mo
  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   </head>
   <body>
- <button type="button" class="btn btn-primary">Primary</button>
+ <button type="button" class="btn btn-primary">BUY PRODUCT</button>
   </body>
 </html>
