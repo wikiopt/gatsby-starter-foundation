@@ -9,7 +9,7 @@ description: Your action photos deserve high quality, and that is exactly what
   that your memories are beautiful.
 featuredImage: /assets/kit.jpg
 ---
-<!--StartFragment-->
+
 
 Equipped with powerful sensors, this camera will deliver great pictures even in dim light. With the ability to fit different lenses, this camera is just what you need for flexibility. If you’re serious about sports and you want the best camera for skateboarding photography, this should be at the top of your list of cameras to purchase.
 
@@ -42,5 +42,3 @@ If you want to take photos with a blurry background, this is one of the best opt
 * You cannot set ISO in manual mode.
 * The screen is fixed and does not move.
 * There is no microphone jack.
-
-<!--EndFragment-->
