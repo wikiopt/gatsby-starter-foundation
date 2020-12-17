@@ -7,8 +7,6 @@ Skate Town Guide:
 
 Hey everyone, I am a skateboard lover. We write honest reviews and buyer guides. We spend hours on the internet to find the best product for you.
 
-
-
 ![skating](/assets/index.jpg "skating")
 
 <!--StartFragment-->
@@ -29,10 +27,8 @@ Inspired by a picture from the movie “Death Wish,” the deck bears a picture 
 
 * #### Reliability
 
-Another reason to consider any Deathwish skateboard is its reliability. The company has been consistent and steadfast over the years, and this justifies their reliability. Despite numerous challenges, there has never been a dwindling effect on Deathwish’s quality of boards. As a Deathwish skateboard user, you have nothing to worry about when it comes to efficiency. They will surely deliver.
+Another reason to consider any Deathwish skateboard is its reliability. The company has been consistent and steadfast over the years, and this justifies its reliability. Despite numerous challenges, there has never been a dwindling effect on Deathwish’s quality of boards. As a Deathwish skateboard user, you have nothing to worry about when it comes to efficiency. They will surely deliver.
 
 There is no fear of any part wearing off fast, tights slacking fast, or of bolts losing quickly. If wisely used and maintained, the skateboard is sure to stand the test of time.
-
-* #### Delivery
 
 <!--EndFragment-->
