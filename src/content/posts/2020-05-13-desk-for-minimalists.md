@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Best Video Camera For Skateboarding Filming And Photography
-slug: video-camera
+slug: /video-camera
 date: 2020-05-13 12:46
 description: The art of skateboarding is spectacular. As an avid skateboarder,
   there are many “wow” moments that you would love to capture while enjoying the
