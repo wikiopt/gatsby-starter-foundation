@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Skate Guide Town
+tagline: We Deliver Sports Guide and Honest Reviews.
+featuredImage: /assets/index.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
