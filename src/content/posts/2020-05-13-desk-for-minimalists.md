@@ -20,6 +20,6 @@ Having great skateboarding skills will help you enjoy the sport, but you need mo
  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   </head>
   <body>
- <button type="button" class="btn btn-primary">BUY PRODUCT</button>
+ <button type="button" class="btn btn-primary" onClick="https://www.argos.co.uk/product/8663195?istCompanyId=a74d8886-5df9-4baa-b776-166b3bf9111c&istFeedId=30f62ea9-9626-4cac-97c8-9ff3921f8558&istItemId=ixitiwtql&istBid=t&&cmpid=GS001&_$ja=tsid:59157%7cacid:416-707-6621%7ccid:9567730945%7cagid:98490209936%7ctid:pla-1007717990127%7ccrid:423217901503%7cnw:g%7crnd:11845122670362691487%7cdvc:c%7cadp:%7cmt:%7cloc:1007080&utm_source=Google&utm_medium=cpc&utm_campaign=9567730945&utm_term=8663195&utm_content=shopping&utm_custom1=98490209936&utm_custom2=416-707-6621&gclid=EAIaIQobChMI-NupgpfV7QIVPBoGAB0C_wiFEAQYBCABEgLjXPD_BwE&gclsrc=aw.ds">BUY PRODUCT</button>
   </body>
 </html>
