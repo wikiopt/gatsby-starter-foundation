@@ -8,7 +8,7 @@ description: To catch all the action of your skateboarding tricks in full HD,
   spectacular tool that professionals and first-timers alike will enjoy. The
   best camera for skateboarding photography should give you options to capture
   special scenes from close and far.
-featuredImage: ""
+featuredImage: /assets/cam.jpg
 ---
 <!--StartFragment-->
 
